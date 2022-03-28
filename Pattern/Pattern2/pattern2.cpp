@@ -1,9 +1,4 @@
 
-// 55555
-// 4444
-// 333
-// 22
-// 1
 
 #include<iostream>
 #include<cmath>
