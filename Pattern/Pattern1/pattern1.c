@@ -1,10 +1,4 @@
 
-// 1
-// 22
-// 333
-// 4444
-// 55555
-
 #include<iostream>
 #include<cmath>
 using namespace std;
